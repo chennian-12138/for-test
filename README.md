@@ -1,1 +1,1 @@
-[![leftover's bbdc stats](https://stat.leftover.cn/bbdc?userId=169585725&nickname=leftover)](https://github.com/left0ver/github-bbdc-stat)
+[![leftover's bbdc stats](https://stat.leftover.cn/bbdc?userId=169585725&nickname=MyNameIsGod)](https://github.com/left0ver/github-bbdc-stat)
